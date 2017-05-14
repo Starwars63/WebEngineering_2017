@@ -1,0 +1,7 @@
+*.pptx
+*.iml
+.idea/
+target
+
+*.mv.db
+*.trace.db
